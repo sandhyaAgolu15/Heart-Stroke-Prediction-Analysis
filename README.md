@@ -17,18 +17,18 @@ Heart Stroke is one of the severe health hazards, According to the World Health 
 ## Data Exploration and Preprocessing:
 The Dataset contains data of 5110 observations of an individual with 11 column variables, 9 of which are predictive to our outcome of stroke and one of which is an identification quantifier for our patients.
 The data set include variables such as :
-<br />• id:	Unique identifier
-<br />• gender:	“Male”,” Female” or “Other”
-<br />• age:	Age of the patient
-<br />• hypertension:	0 if the patient doesn't have hypertension, 1 if the patient has hypertension
-<br />• heart_disease:	0 if the patient doesn't have any heart diseases, 1 if the patient has a heart disease
-<br />• ever_married:	"No" or "Yes"
-<br />• work_type: "children", "Govt_jov", "Never_worked", "Private" or "Self-employed"
-<br />• residence_type:	"Rural" or "Urban"
-<br />• avg_glucose_level:	average glucose level in blood
-<br />• BMI:	body mass index
-<br />• smoking_status: 	"formerly smoked", "never smoked", "smokes" or "Unknown"
-<br />• stroke:	1 if the patient had a stroke or 0 if not
+<br />• **id:**	Unique identifier
+<br />• **gender:**	“Male”,” Female” or “Other”
+<br />• **age:**	Age of the patient
+<br />• **hypertension:**	0 if the patient doesn't have hypertension, 1 if the patient has hypertension
+<br />• **heart_disease:**	0 if the patient doesn't have any heart diseases, 1 if the patient has a heart disease
+<br />• **ever_married:**	"No" or "Yes"
+<br />• **work_type:** "children", "Govt_jov", "Never_worked", "Private" or "Self-employed"
+<br />• **residence_type:**	"Rural" or "Urban"
+<br />• **avg_glucose_level:**	average glucose level in blood
+<br />• **BMI:**	body mass index
+<br />• **smoking_status:** 	"formerly smoked", "never smoked", "smokes" or "Unknown"
+<br />• **stroke:**  1 if the patient had a stroke or 0 if not
 
 ## Data Cleaning:
 <br />• Replaced missing values with mean in column name BMI.
