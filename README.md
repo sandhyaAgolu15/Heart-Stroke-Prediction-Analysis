@@ -39,7 +39,7 @@ The data set include variables such as :
 
 As part of data pre-processing, performed one hot encoding on the dataset to convert categorical variables to machine readable format (numerical values). After encoding went ahead and checked for the imbalances in data and found asymmetry in data. Performed oversampling on the dataset using MWMOTE (Majority Weighted Minority Oversampling Technique) and balanced the data.  
 
-# Models and their comparison:
+## Models and their comparison:
 Implemented the below models:
 <br />• Logistic Regression
 <br />• RandomForest
@@ -87,7 +87,7 @@ Below is the accuracy for all the five models implemented in the project:
 
 Random Forest performed the best with an accuracy of 94.6% followed by Ensemble and random forest with an accuracy of 94.3%.
 
-## Conclusion
+## Conclusion:
 Age is a major risk factor for stroke. As we get older, we are more at risk to suffer a stroke. Males and females both suffer stroke at a similar rate. However, females have been shown to suffer strokes at younger ages than males. Heart problems like hypertension and heart disease greatly increase the risk of stroke. People who have been married are at a higher risk of stroke. This may be due to higher levels of stress that occur during married life. We got better accuracy while using the Random Forest Machine learning model of 94.65 To improve variance and bias we used weighted average and got an accuracy of 94.3
 
 
