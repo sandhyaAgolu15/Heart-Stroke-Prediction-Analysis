@@ -2,14 +2,14 @@
 This project is to predict early heart stroke based on the lifestyle of an individual using ML algorithms.
 
 ## Project Description:
-This project is about predicting early heart strokes that helps the society to save human lives using Logistic Regression, Random Forest, KNN, Neural Networks and Ensemble Models using “Healthcare-Dataset-Stroke-Data.csv” Dataset from Kaggle, based on 5110 observations with 12 explanatory variables.
+This project is about predicting early heart strokes that helps the society to save human lives using Logistic Regression, Random Forest, KNN, Neural Networks and Ensemble Models. These ML alogorithms are applied on “Healthcare-Dataset-Stroke-Data.csv” Dataset from Kaggle, based on 5110 observations with 12 explanatory variables.
 Dataset: https://www.kaggle.com/fedesoriano/stroke-prediction-dataset/metadata)
 
 ## Goal: 
-The project is aimed at implementing a model(s) to predict early heart strokes that helps the society to save human lives.
-•	Clean variables, build what is needed
-•	Models: Logistic Regression, KNN techniques, RandomForest, Ensemble Learning & Neural Networks
-•	Choose the best model having best accuracy.
+The project is aimed at implementing a model(s) to predict early heart strokes in an individual.
+<br />•	Clean variables, build what is needed
+<br />•	Models: Logistic Regression, KNN techniques, RandomForest, Ensemble Learning & Neural Networks
+<br />•	Choose the best model having best accuracy.
 
 ## Business Problem:
 Heart Stroke is one of the severe health hazards, According to the World Health Organization (WHO) stroke is the 2nd leading cause of death globally, responsible for approximately 11% of total deaths. Therefore, early heart stroke prediction helps the society to save human lives. Many of these strokes can be avoided by adopting healthier lifestyle, and monitoring individuals who are most at risk can significantly improve the results.  This project focuses on identifying stroke risk factors and offers suggestions for how to avoid them.
